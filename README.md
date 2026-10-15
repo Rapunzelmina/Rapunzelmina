@@ -10,7 +10,7 @@ I started in finance operations (billing, invoices, accounts payable, reconcilia
 ## Featured / Destaques
 
 - **[Projects, automation and process improvement](https://github.com/Rapunzelmina/portfolio-automacoes)**: 9 case studies across 6 areas, with before-and-after of each process / *9 cases em 6 áreas, com o antes e depois de cada processo*
-- **[Sales close automation](https://github.com/Rapunzelmina/Sales-Closing-Automation)**: from up to a week of work to about 5 minutes / *de até uma semana de trabalho para cerca de 5 minutos*
+- **[Sales close automation](https://github.com/Rapunzelmina/Sales-Closing-Automation)**: from almost a day per cycle to up to 5 minutes / *de quase um dia por ciclo para até 5 minutos*
 
 ## Stack
 
